@@ -1,6 +1,5 @@
 # Description
-Script qui permet de générer des fichiers markdown qui résument les résultats d'entrainement de modèles de classification lidar obtenus avec  
-l'application [Convpoint](https://github.com/mpelchat04/ConvPoint).
+Script qui permet de générer des fichiers markdown qui résument les résultats d'entrainement de modèles de classification lidar obtenus avec l'application [Convpoint](https://github.com/mpelchat04/ConvPoint).
 
 # Pré-requis:   
 ```shell
